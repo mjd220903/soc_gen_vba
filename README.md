@@ -7,7 +7,7 @@ This project provides a solution for automating the documentation and transforma
 
 ## Architecture
 
-The solution consists of a single Python script that performs the following tasks:
+The solution consists of a single Python script that performs the following tasks :
 
 1. **Extract VBA Code**: Uses the `pywin32` library to interact with Excel and extract VBA code from modules.
 2. **Save VBA Code**: Saves the extracted VBA code to separate files for each module.
