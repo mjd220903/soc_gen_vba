@@ -1,5 +1,3 @@
-# Sure! Here's a `README.md` file that documents the solution, including setup instructions, usage, and an overview of the architecture and functionality.
-
 ```markdown
 # VBA Macro Documentation and Transformation Automation
 
